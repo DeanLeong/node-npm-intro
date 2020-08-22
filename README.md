@@ -173,8 +173,7 @@ medium-sized project:
 ### Aside: node_modules and .gitignore
 
 Let's say we want to work on someone else's project. We clone it down to our
-computer, and then open it up and start exploring the file structure. You've
-already done this with the first JS checkpoint.
+computer, and then open it up and start exploring the file structure.
 
 It's got various javascript files, and also a `package.json` file describing all
 the modules needed to run the code.
@@ -283,7 +282,7 @@ const variousBrownBears = require("./bears");
 
 **Review Questions:**
 
-- In your own words, describe what we just did
+- In your own words, describe what we just did.
 
 ## Working With the File System
 
