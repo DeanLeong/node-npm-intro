@@ -114,20 +114,13 @@ That means there are some practical differences in how we write JavaScript in
 Node versus for a browser. It also means there is a lot of server specific
 functionality that will only work in Node.
 
-### [Seeing the Difference](https://git.generalassemb.ly/dc-wdi-node-express/browser-server-js)
-
-Let's explore the similarities and differences between JavaScript in the browser
-(which you're already familiar and comfortable with) and on the Server (what
-we're learning now). Work through
-[this exercise](https://git.generalassemb.ly/dc-wdi-node-express/browser-server-js)
-
 ## Your First Node Application
 
 We're going to explore working with Node and npm in our `sandbox` directory.
 
 ### Instructions
 
-1. Navigate to your `sandbox`
+1. Navigate to your `sandbox`.
 1. Create a new directory called `hello-node` and `cd` into it.
 1. Create a file called `index.js` and edit it in your text editor.
 1. Console log 'hello world'.
@@ -180,8 +173,7 @@ medium-sized project:
 ### Aside: node_modules and .gitignore
 
 Let's say we want to work on someone else's project. We clone it down to our
-computer, and then open it up and start exploring the file structure. You've
-already done this with the first JS checkpoint.
+computer, and then open it up and start exploring the file structure.
 
 It's got various javascript files, and also a `package.json` file describing all
 the modules needed to run the code.
@@ -290,7 +282,7 @@ const variousBrownBears = require("./bears");
 
 **Review Questions:**
 
-- In your own words, describe what we just did
+- In your own words, describe what we just did.
 
 ## Working With the File System
 
